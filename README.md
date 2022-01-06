@@ -27,3 +27,31 @@ npm run server
 ```
 ng build
 ```
+### Breakdown of topics covered
+Angular CLI and Setup  
+Files and Folders  
+Component structure  
+Properties and Interpolation  
+Global Styles  
+Header Component  
+Button Component  
+Component Input Data  
+Creating an event and event emitter output  
+Mock Tasks and Task Interface  
+Tasks Component  
+Looping with ngFor  
+Task Item Component  
+Angular Font Awesome Setup  
+Create a Task Service  
+Creating and Subscribe to Observable  
+JSON-Server Setup  
+Angular HTTP Client  
+Fetching Tasks  
+Deleting Tasks  
+Toggle Reminder  
+Add Task Component  
+Forms Module and ngModel  
+Submit and Create Task  
+Toggle Button and UI Service  
+Angular Router  
+Limit Component to Route  
